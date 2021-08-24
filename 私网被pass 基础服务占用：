@@ -1,0 +1,28 @@
+私网被pass 基础服务占用：
+		ga_id 882 
+		app_id='d249679f-21d0-40ba-80c5-a2f85d6d8fed'    
+		任务id  ec724e5a-0023-11ec-9e6a-0242ac110b40  
+		私网id  '8cfed8d0-b186-11eb-bb62-0242ac110a7c' 
+		customer_id="E098639"
+		customer_user_id="123456789"
+
+私网被pass 基础服务占用：
+	ga-id  3222
+
+	app_id  f59eb8cf-5b5a-417a-bbfd-1cbcbc4d3436
+	私网id c9495530-f5c5-11eb-be4f-0242ac110b14
+	"manage_customer_id":"E103553",
+    "manage_user_id":"13300000002"
+
+私网被PaaS基础服务标记:
+	ga_id 3231
+	app_id 6929b7ad-c898-4870-a0d4-4035a47b5ced
+	私网id  7fbbff5c-f5c6-11eb-99d8-0242ac110b14
+	"manage_customer_id":"E103553",
+    "manage_user_id":"13300000002"
+
+
+
+
+
+
