@@ -25,7 +25,6 @@ class Solution:
         -2^31 <= x <= 2^31 - 1
         动态规划
         '''
-        
         res = int(self.process(x))
         top=2**31
         if res<-top or res>top-1:
