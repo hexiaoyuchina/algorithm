@@ -1,20 +1,15 @@
 class Solution:
-    def isPalindrome(self, x):
-        if x<0 or x%10 == 0 and x!=0:
-            return False
-        revert_number = 0
-
-        while x>revert_number:
-          revert_number =revert_number*10 + x%10
-          x =x//10
-          print('x={},revert_number={}'.format(x,revert_number))
-        if x==revert_number or x ==revert_number//10:
-            return True
-        return False
+    def isMatch(self, s, p):
+        '''
+        '.' 匹配任意单个字符
+        '*' 匹配零个或多个前面的那一个元素
+        '''
+        pass
 
 if __name__ == '__main__':
-    data=1010
+    strs = ''
+    pattern =''
     solution = Solution()
-    res = solution.isPalindrome(data)
+    res = solution.isMatch(strs,pattern)
     print(res)
 
